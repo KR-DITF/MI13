@@ -18,7 +18,6 @@ sg.set_options(font=('Arial Bold', 16))
 
 
 
-
 # ----------------------------
 # LOGS "OPCIJAS" | FUNCKIJA
 # ----------------------------

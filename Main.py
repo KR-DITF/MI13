@@ -13,7 +13,6 @@ import sys #Bibliotēka, kas ļauj ietekmēt Pythona vidi pārtraukt kodu utml.
 
 
 
-
 # ----------------------------
 # SPĒLES "DATUBĀZE" | MAINĪGIE
 # ----------------------------
